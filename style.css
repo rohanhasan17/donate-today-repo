@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+.banner {
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    width: 100%;
+    color: white;
+    height: 900px;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-box h1 {
+    font-size: 80px;
+    margin-top: 0;
+    color: white;
+    margin-bottom: 0px;
+}
+
+.banner-box p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    margin-bottom: 60px;
+}
+
+.link-button {
+    padding: 25px 35px;
+    text-decoration: none;
+    background-color: #FF5959;
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+}
