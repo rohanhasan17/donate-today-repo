@@ -185,7 +185,7 @@ button {
 
 footer {
 
-    height: 250px;
+    height: 240px;
     width: 100%;
     background-color: #0B0D17;
     color: white;
@@ -193,12 +193,13 @@ footer {
     align-items: center;
     justify-content: center;
     text-align: center;
+    margin-top: 200px;
 }
 
 footer h1 {
     color: #FF5959;
     font-family: 'Lobster', cursive;
-    font-size: 50px;
+    font-size: 45px;
 }
 
 footer p {
